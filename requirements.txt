@@ -1,0 +1,6 @@
+vonage
+websocket-client
+numpy
+scipy
+fastapi
+uvicorn[standard]

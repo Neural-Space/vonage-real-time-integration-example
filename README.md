@@ -33,4 +33,5 @@ python vonage_make_call.py --answer_url https://300b-2406-7400-56-cf0d-4125-592-
 ```
 
 # Results
-You should be able to see the results in the logs of the server.
+You should be able to see the results in the logs of the server.  
+And for reference the recorded audio file of the conversation is saved by the server as `tempfile.wav`

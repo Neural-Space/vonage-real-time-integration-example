@@ -8,7 +8,10 @@ Vonage VoiceAPI Real time integration with VoiceAI
 - Create private and public key to use with SDK.
 - Install ngrok
 
-
+# Install requirements
+```bash
+pip install -r requirements.txt
+```
 # Start a ngrok service
 ```bash
 ngrok http 9999
